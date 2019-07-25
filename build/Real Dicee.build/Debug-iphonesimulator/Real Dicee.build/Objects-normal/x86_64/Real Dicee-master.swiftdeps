@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "e77fbe616a2598ac8898a1c8d0dbe2ee"
+build_time: [1564036678, 171979000]
+inputs:
+  "/Users/cheryl/Desktop/Real Dicee-iOS12-2/Real Dicee/ViewController.swift": [1564036626, 727435223]
+  "/Users/cheryl/Desktop/Real Dicee-iOS12-2/Real Dicee/AppDelegate.swift": [1530629830, 0]
